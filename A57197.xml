@@ -1,0 +1,512 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vanitie of man, in his best estate a sermon preached at St. Maries in Nottingham, March 18. 1657. at the funeral of the honourable Francis Pierepont, Esq; third son to the right honourable Robert late Earl of Kingston. By William Reynolds, M.A. minister of the Gospel at St. Maries in Nottingham.</title>
+            <author>Reynolds, William, 1625-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57197</idno>
+            <idno type="STC">Wing R1323A</idno>
+            <idno type="STC">ESTC R217985</idno>
+            <idno type="EEBO-CITATION">99829614</idno>
+            <idno type="PROQUEST">99829614</idno>
+            <idno type="VID">34055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1999:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vanitie of man, in his best estate a sermon preached at St. Maries in Nottingham, March 18. 1657. at the funeral of the honourable Francis Pierepont, Esq; third son to the right honourable Robert late Earl of Kingston. By William Reynolds, M.A. minister of the Gospel at St. Maries in Nottingham.</title>
+                  <author>Reynolds, William, 1625-1698.</author>
+                  <author>Whitlock, John, 1625-1709.</author>
+               </titleStmt>
+               <extent>[8], 24, p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Rothwel, at the Fountain in Goldsmiths-row in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: John Whitlock. William Reynolds.</note>
+                  <note>Includes errata.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pierepont, Francis, d. 1658 --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Psalms, XXXIX, 5 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34055:1" rendition="simple:additions"/>
+            <p>THE VANITIE OF MAN, IN His beſt ESTATE; A SERMON PREACHED At S<hi rend="sup">t.</hi> 
+               <hi>MARIES</hi> in <hi>Nottingham,</hi> March 18. 1657. At the Funeral of the Honourable <hi>FRANCIS PIEREPONT,</hi> 
+               <abbr>Eſq</abbr> third Son to the Right Honourable <hi>ROBERT</hi> late Earl of KINGSTON.</p>
+            <p>By WILLIAM REYNOLDS, M.A. Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel at St. <hi>Maries</hi> in <hi>Nottingham.</hi>
+            </p>
+            <q>
+               <p>The voyce ſaid, Cry. And he ſaid, What ſhall I cry? All fleſh is graſs, and all the goodlineſs thereof is as the flower of the field.</p>
+               <p>The graſs withereth, the flower fadeth: becauſe the Spirit of the Lord bloweth upon it: ſurely the people is graſs.
+<bibl>
+                     <hi>Iſai. 40.6, 7.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Rothwel,</hi> at the <hi>Fountain</hi> in <hi>Goldſmiths<g ref="char:EOLhyphen"/>row</hi> in <hi>Cheapſide,</hi> 1658.</p>
+            <pb facs="tcp:34055:2"/>
+            <pb facs="tcp:34055:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34055:3" rendition="simple:additions"/>
+            <pb facs="tcp:34055:3"/>
+            <head>To the Honourable <hi>Aliſſimon Pierrepont</hi> Wi<g ref="char:EOLhyphen"/>dow to the late Honourable <hi>Francis Pierrepont</hi> 
+               <abbr>Eſq</abbr> deceaſed.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was at your deſire that theſe <hi>Sermons</hi> were preached, and it is through your continued comm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding importuni<g ref="char:EOLhyphen"/>ty that they appear in publick: our backwardneſſe hereunto is very well known unto you; which yet proceed<g ref="char:EOLhyphen"/>ed not from any want of reſpect either to your ſelf, or your deceaſed Huſband (whoſe Memory we do, and ever ſhall honour) but from the ſenſe of our own weakneſſe and unworthineſſe, and an unwilling<g ref="char:EOLhyphen"/>neſſe to renew your grief, fearing leſt every review of theſe Sermons, might prove as a freſh tenting of that wound, which the loſs of ſo near and dear a re<g ref="char:EOLhyphen"/>lation hath made in your heart. But our reſpects both to your deceaſed Huſband, and to your ſelf, from both whom we have received ſo many ingaging fa<g ref="char:EOLhyphen"/>vours, as alſo your own moſt earneſt deſire that theſe Sermons might be printed, have ſilenced all our Ob<g ref="char:EOLhyphen"/>jections, and prevailed with us to the publiſhing of them, which we now humbly dedicate unto you, knowing none that have a greater right unto them than your ſelf, by reaſon of your moſt neer relation, and dear affection, unto him at whoſe Funer<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they were preached.</p>
+            <p>
+               <hi>Madam,</hi> We are very ſenſible both of your and our
+<pb facs="tcp:34055:4"/>great loſs. The Lord teach and help both you and us, to find and make up that in God, which we have loſt in the Creature. The preſent duty which this diſpenſation of Providence calls for, is the eying of God in it, a ſubmiſſion unto, and due improvement of it, that you may <hi>hear the Rod, and him that appoints it.</hi>
+            </p>
+            <p>And if any thing in theſe plain <hi>Sermons</hi> may fur<g ref="char:EOLhyphen"/>ther you, or any other in the like condition, to the performance of this duty (which through Gods bleſ<g ref="char:EOLhyphen"/>ſing we hope they may) we ſhall rejoyce and be thankful unto God.</p>
+            <p>The former acquaints you with <hi>Mans Vanity in his beſt Eſtate,</hi> which leſſon God hath been many wayes, and for a long time teaching of you; Firſt, by taking away diverſe of your dear Children from you in their tender years, and now your more dear Huſband in his <hi>beſt Eſtate,</hi> according to the ſenſe of the <hi>Pſal<g ref="char:EOLhyphen"/>miſt.</hi> Sure God would by theſe Providences knock off your Hands and take off your Heart from the Creature. Endeavour to make this uſe of them, to get a more weaned Heart from the world, and all thoſe Creature enjoyments God hath yet left you It is true indeed you have cauſe to ſay with <hi>Job, Have pity upon me, have pity upon me O ye my Friends, for the Hand of the Lord hath touched me.</hi> Yet withall, you have ſtill cauſe to acknowledge, that in the midſt of Wrath, God hath remembred Mercy: in a peacea<g ref="char:EOLhyphen"/>ble ſetling your worldly affairs, to content and ſa<g ref="char:EOLhyphen"/>tisfaction, and yet more, in his hitherto ſparing and continuing unto you the life of your now onely ſur<g ref="char:EOLhyphen"/>viving Daughter Mrs. <hi>Winnifred Pierrepont,</hi> a living Branch of your deceaſed Huſband Our Prayer is, and ſhall be, that God would ſeaſon her young and ten<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:34055:4"/>Heart with Grace, and that he would lengthen her life, that ſhe may live to be an inſtrument of his glory, and a comfort unto you and her relations. And our Humble Advice to you, in order hereunto is, That you would take heed leſt you ſet your Heart too much upon her; you cannot love her too well, but you may love her too much: and ſtrong affecti<g ref="char:EOLhyphen"/>ons towards Creatures, do uſually make way for ſtrong afflictions. See therefore that you place not too much of happineſſe in her, or any other Creature, but make God your portion, and while you uſe Creatures of which God hath vouchſafed you plen<g ref="char:EOLhyphen"/>ty, be ſure you enjoy God: and labour after an E<g ref="char:EOLhyphen"/>ſtate that is better than Mans <hi>beſt Eſtate,</hi> whether <hi>na<g ref="char:EOLhyphen"/>tural, Civil,</hi> or <hi>Moral.</hi>
+            </p>
+            <p>The latter Sermon, preſents you with the gain and advantage of <hi>
+                  <g ref="char:V">Ʋ</g>prightneſſe,</hi> and <hi>Sincerity of Heart,</hi> and may ſerve as a Cordial to Gods People under the greateſt preſent preſures of trouble and affliction, which they are exerciſed with, affuring them of a calm Evening after a ſtormy Day, and that though they have ſorrow here, yet they ſhall find joy and reſt at laſt, in their Fathers Houſe and Saviours Bo<g ref="char:EOLhyphen"/>ſome. We hope God hath given you this <hi>
+                  <g ref="char:V">Ʋ</g>pright<g ref="char:EOLhyphen"/>neſſe</hi> of Heart, and pray, that he would give you that peace and comfort which he hath promiſed to it. Labour more and more to abound in this Grace: See that <hi>
+                  <g ref="char:V">Ʋ</g>prightneſſe</hi> animate all your performances, Profeſſions, and Practices: Let <hi>
+                  <g ref="char:V">Ʋ</g>prightneſſe</hi> be your way, and Peace ſhall be your end. Which that it may be, is the humble and earneſt prayer of</p>
+            <closer>
+               <salute>Madam</salute>
+               <signed>
+                  <hi>Your Honours moſt obliged Servants,</hi> John Whitlock. William Reynolds.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:34055:5"/>
+            <head>
+               <hi>ERRATA</hi> in Firſt Sermon.</head>
+            <p>IN p. 10. l. 10. for <hi>be</hi> read being, in p. 19. l. 15. for <hi>or</hi> read to.</p>
+            <div type="part">
+               <head>In Second Sermon.</head>
+               <p>In p. 3 l. 3. for <hi>diligent,</hi> read diligently, p. 5. l. 25. add <hi>be</hi> before vertue, p. 12. l. 26. add <hi>ſo</hi> before 2 Kings, p. 19. l. 7. add <hi>your</hi> before <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 19. l. 15. for this, read his, p 21. l 2. for neither, read wither, p. 23 l. <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. dele 8. p. 25. l. 24. for caring, r. carving, p. 25. l. 30. add <hi>called</hi> before a true heart, <hi>&amp;c.</hi> p. 27. l. 32. add <hi>their</hi> before hearts, p. 28. l. 6. r. purifying, p. 28. l. 28. dele <hi>own,</hi> p. 28. l 34. add <hi>the</hi> before doors, p. 31. l. 10. add <hi>have</hi> before had, p. 35. l. 7. for <hi>green,</hi> r. greeneſs, p. 35. l. 33. for <hi>incipit,</hi> r. incipis, p. 37. l. 14. for <hi>Diabilo,</hi> r. Diabolo, p. 38 l. 14. dele <hi>be,</hi> p. 38. l. 22. add <hi>&amp; quae,</hi> after proavos.</p>
+            </div>
+            <div type="part">
+               <head>In Verſes.</head>
+               <p>Second Copy, p. 2. v. 11. for <hi>brighe,</hi> r. bright, ibid. v. 30. read <hi>Country,</hi> in fourth Copy in the Latine Verſes, v. 13. for <hi>religionis,</hi> r. relligionis, in the Engliſh Copy, <hi>p.</hi> 2. <hi>v.</hi> 21. for <hi>Seplchrall, r.</hi> Sepulchrall. <hi>Ibid. v.</hi> 32. <hi>r</hi> power, in Mr. <hi>Pickerings</hi> Coppy, <hi>v.</hi> 13. <hi>r.</hi> Elegie, Mr. <hi>Grants</hi> Coppy, <hi>p.</hi> 2. <hi>v.</hi> 10. for <hi>invite, r.</hi> indite <hi>S. C.</hi> Cop. <hi>v.</hi> 18. <hi>r.</hi> things, Mr. <hi>Stillingfleet</hi> Cop. <hi>p.</hi> 2. <hi>v.</hi> 25. <hi>r.</hi> Brothers.</p>
+            </div>
+         </div>
+         <div type="to_the_next_of_kin">
+            <pb facs="tcp:34055:5"/>
+            <head>To the truly Honoured <hi>ROBERT PIEREPONT,</hi> Eſquire, the only Son and Heir; And to M<hi rend="sup">rs</hi>. <hi>Frances Pierepont,</hi> Eldeſt Daughter to the Honourable <hi>FRANCIS PIEREPONT,</hi> lately deceaſed.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E are bold to preſent you with theſe two SERMONS Preached at the late Fu<g ref="char:EOLhyphen"/>neral of your dear Father, whoſe Me<g ref="char:EOLhyphen"/>mory being (as deſervedly it ought to be) moſt Highly Honoured by you, We doubt not but theſe <hi>Sermons</hi> devoted thereunto, will be very acceptable unto you. The Lord bleſs the Reading of them to you both, and grant that the great truths held forth in them, may be ſo impreſſed upon your hearts, as that being convinced of the former, namely, <hi>Mans Vanity even in his beſt Eſtate as to this world,</hi> you may above all things labour after the later, to wit, <hi>Goſpel-perfection, and uprightneſs of heart;</hi> by thus doing, you will live moſt honourably, dye moſt peaceably, and to all eternity live moſt happily, which is the hearty Prayer of</p>
+            <closer>
+               <signed>Your Faithful Servants in the Work of the Lord. <hi>John Whitlock. William Reynolds.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34055:6"/>
+            <head>To the READER.</head>
+            <p>THe unuſualneſs of having two Sermons Preached at the Funeral of one Perſon, occaſions us to Preface ſomewhat to give thee an account thereof. That perſon of Honour, at whoſe Funeral theſe Sermons were Preached, having had his reſi<g ref="char:EOLhyphen"/>dence for ſome years, and dying in the Town of <hi>Nottingham,</hi> where he was much reſpected and honoured; and a great part of the perſons invited to his Funeral, being inhabitants of the ſaid Town, many of which were unable to attend the Herſe to the place where his body was interred, which was at ſome conſiderable diſtance, and the Church there too ſmall to receive ſo great a number; It was judged inexpedient, to diſmiſs ſo great a Company, as were met at his houſe at <hi>Nottingham,</hi> with a meer civil treatment, without ſome word of instruction ſuitable to ſo ſolemn an occaſion; which occaſioned the Preaching of the former Sermon. As for the later Sermon, which was only at firſt intended, we ſhall need to give no further account than this, that it was Preached at the place where the Corps was interred.</p>
+            <p>We need no leſs to apologize for our appearing in Print in this age, wherein the Preſs abounds with ſo many ſupernumerary Pa<g ref="char:EOLhyphen"/>pers. It was with much unwillingneſs that we were induced to it, but the importunity of ſome friends (nearly related to the Perſon de<g ref="char:EOLhyphen"/>ceaſed) to whom we owe very much reſpect, and our willingneſs to do any thing, that might contribute to the keeping up the memory of him now dead, whom we ſo much honoured whilſt living, hath at laſt prevailed with us, thus to appear in publick. You have the Sermons as they were Preached, without any addition, except, that in the later Sermon, divers inlargements which were prepared to be delivered, but through ſtreights of time, were neceſſarily then omit<g ref="char:EOLhyphen"/>ted, are now added. Such as they are, we recommend them to thy Reading, and to Gods bleſſing upon them: not doubting, but if God ſhall teach thee thoſe two main Leſſons held forth in them, <hi>(viz.) Mans-Vanity,</hi> and <hi>Heart-Integrity,</hi> they may much conduce to thy holy Life, and happy Death. Which that they may, is the Pray<g ref="char:EOLhyphen"/>er of</p>
+            <closer>
+               <signed>
+                  <hi>Thy Souls Servants,</hi> John Whitlock Willam Reynolds.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:34055:6"/>
+            <head>
+               <figure>
+                  <p>
+                     <g ref="char:yhwh">יהוה</g>
+                  </p>
+               </figure>TEXT. <hi>Pſalm.</hi> 39.5.</head>
+            <epigraph>
+               <q>
+                  <hi>Surely, or verily, every Man, at his best Eſtate, is al<g ref="char:EOLhyphen"/>together vanity.</hi> Selah.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E read the Prophet <hi>David,</hi> in the ſecond and third verſes of this <hi>Pſalm,</hi> e're he breaks forth into that Speech, of which our Text is a part, ſaying, <hi>that his ſor<g ref="char:EOLhyphen"/>row was ſtirred, and that his heart was hot within him.</hi> In like manner before I ſpeak to my <hi>Text,</hi> I muſt needs crave leave to tell you, that upon the ſight of this great Aſſembly, congrega<g ref="char:EOLhyphen"/>ted to ſolemnize the <hi>Funeral Rites</hi> of that truly <hi>Ho<g ref="char:EOLhyphen"/>nourable Perſon</hi> deceaſed, I find my ſorrow ſtirred, and my heart to be greatly moved within me.
+<note place="margin">He dyed the 30th. of <hi>Ja<g ref="char:EOLhyphen"/>nuary.</hi>
+               </note> It is indeed ſome weeks ſince, that divine providence made this ſad breach amongſt us: but the wound yet is very green, and the leaſt tenting of it, makes it to bleed afreſh, how much more ſuch a violent raking into it as at this day! and what are a few weeks, moneths, nay, I may adde years, to wear out thoſe deep impreſſions, which the loſs of a Perſonage of ſo much honour and worth hath made upon the minds of many amongſt us?</p>
+            <p>My beloved, It is very well known to the moſt of you, that it hath neither been mine,
+<note place="margin">The ſeveneth year is com<g ref="char:EOLhyphen"/>pleat the 25<hi rend="sup">th</hi>. <hi>March,</hi> 1658.</note> nor my fellow<g ref="char:EOLhyphen"/>labourers practice, during thoſe ſeven years, which now within ſome very few dayes, we have laboured in the word and doctrine among you, either to Preface, or add any <hi>Panegyricks</hi> to the Funeral Sermons we have been
+<pb n="2" facs="tcp:34055:7"/>called to Preach; and one great reaſon of our forbea<g ref="char:EOLhyphen"/>rance hath been the great abuſe which we have obſer<g ref="char:EOLhyphen"/>ved formerly to have been hereof; it having been too uſual, as one ſadly complains, <hi>ut eorum vitae laudentur in terris, quorum animae cruciantur in inferno;</hi> and we have alſo obſerved, that there hath been but little of edifica<g ref="char:EOLhyphen"/>tion in the beſt, and much of falſhood, and flattery, in the moſt Funeral Commendations.</p>
+            <p>Yet though we have forborn the practice, we have not judged it unlawful to give a due Teſtimony to the dead, in mentioning ſuch commendable virtues, and practices, as may be precedential to the Living.</p>
+            <p>The warrantableneſs of it,
+<note place="margin">2 Chron. 32.33.</note> might be clearly evinced, both from what we read in <hi>Scripture</hi>
+               <note n="*" place="margin">Acts 9.99.</note>, as alſo what we ſind to be practiſed amongſt the <hi>Antients:</hi> who as a
+<note n="*" place="margin">Dr. <hi>Spurſtow</hi> in his Sermon preached at the Funeral of the Lady <hi>Viner.</hi>
+               </note> preſent Divine in our Nation hath obſerved, did oft<g ref="char:EOLhyphen"/>times mingle the prayſes of their dead friends, with their ſorrowful mournings over them. It is not ſo much the lawfulneſs, as the expediency of thus doing, which is ſo much ſcrupled. The great miſcarriage (as the ſame Author expreſſeth) which hath brought this way and practice, both under ſuſpition, and cenſure, hath been the <hi>Golden commendations</hi> that ſome have be<g ref="char:EOLhyphen"/>ſtowed upon <hi>worth-leſs Perſons.</hi> But I perſwade my ſelf, that the eminency of worth and merit, which was ſo reſplendent in that <hi>Honourable Perſon</hi> whoſe <hi>Fune<g ref="char:EOLhyphen"/>ral rites</hi> we now ſolemnize, will cauſe, that I ſhould rather incurre your <hi>Ceuſure,</hi> by my ſilencing the due Character that may be given of him, than your <hi>ſuſpiti<g ref="char:EOLhyphen"/>on,</hi> by an unfeigned, and impartial expreſſion of it.</p>
+            <p>I ſhall not take upon me, to give you a <hi>Narrative</hi> of his whole life; albeit I might (having the warrant of a very good Teſtimony, and the witneſs of ſome preſent, to whom the whole of his converſation hath been very well known) ſafely ſay this of him, in reference to that part of his life, which was unknown to me; That his youth was no wayes beleapred with thoſe foul ſpots of
+<pb n="3" facs="tcp:34055:7"/>pride, luxury, prodigality, and diſobedience to Parents, which are too too Common: but that his <hi>humility, mo<g ref="char:EOLhyphen"/>deſty, frugality, and dutiful obſequiouſneſs to his Noble Parents,</hi> was ſuch as is rarely parallel'd in a Perſon of his Birth and quality. A worthy pattern for young Gentlemens imitation.</p>
+            <p>But I ſhall paſs theſe things, and divers others I might mention, as the ſpeaking to that Antient and Noble Fa<g ref="char:EOLhyphen"/>mily, of which he was a Branch, this being better known to many amongſt you, than it can be expreſſed by me. And I have met with what <hi>Baſil</hi> obſerved in the praiſe of <hi>Gordius</hi> the <hi>Martyr.</hi> 
+               <q>It is the Cuſtom of the world (ſaid he) when they would praiſe a man to ſpeak of his Family, to derive his Pedigree through many deſcents, to open unto all his Education, parts, and learning, and ſuch other accompliſhments: <hi>ſed Ec<g ref="char:EOLhyphen"/>cleſiahaec tanquam ſupervacua dimittit;</hi> the Church looks only at ſuch things, which may glorifie God in his Saints, and thereby do good to them that remain alive.</q>
+            </p>
+            <p>The brief Character I ſhall give of him, (for I muſt be brief in all that I have to deliver) ſhall be only in ſuch things, which my perſonal knowledge, and the great honour I do, and ſhall ever bear to his <hi>memory,</hi> doth both warrant, and provoke me to deliver.</p>
+            <p>To begin firſt with things relating to <hi>Religion,</hi> a due regard to which is the moſt radiant, and ſparkling Stone in the whole Ring of any ones virtues: There were theſe ſeveral particulars highly commendable in him.</p>
+            <p>Firſt his conſtant attendance upon the <hi>publick Ordi<g ref="char:EOLhyphen"/>nances,</hi> and that not only on the <hi>Lords-day,</hi> both Morn<g ref="char:EOLhyphen"/>ing and Evening, but alſo on the <hi>Week-dayes</hi> at both the <hi>Lectures.</hi>
+            </p>
+            <p>Secondly, his conſtant frequenting the <hi>Sacrament</hi> of the <hi>Lords-Supper,</hi> in its monethly adminiſtration a<g ref="char:EOLhyphen"/>mongſt us. I may ſafely ſay, that for theſe ſix years
+<pb n="4" facs="tcp:34055:8"/>laſt paſt, wherein we of this <hi>Congregation</hi> have been privileged with the enjoyment of this <hi>Ordinance,</hi> I do not remember, that when he was in Town, and in per<g ref="char:EOLhyphen"/>fect health, he ever omitted three <hi>Sacraments.</hi>
+            </p>
+            <p>Thirdly, his care and coſt to ſet up, and his conſtant attendance upon the <hi>worſhip</hi> of God in his <hi>Family:</hi> wherein the <hi>Scripture</hi> was read, and <hi>Prayer</hi> made Morning and Evening.</p>
+            <p>Fourthly, his not only complying with endeavours after <hi>Reformation,</hi> in the due adminiſtration of <hi>Goſpel-Ordinances</hi> amongſt us; but his <hi>forwardneſs</hi> unto, and <hi>activity</hi> about the ſetling of <hi>Order</hi> in the Church of God in this place; of which he was not only an uſe<g ref="char:EOLhyphen"/>ful, and honourable member, but was pleaſed alſo to act as an <hi>officer,</hi> humbly condeſcending herein, to joyn himſelf with perſons far inferiour to himſelf, in rank, and quality.</p>
+            <p>Fifthly, the great reſpect he bore to the <hi>Miniſters,</hi> and <hi>Meſſengers</hi> of Jeſus Chriſt: Surely he accounted well of them, as the hearty welcome he gave them to his own houſe, his friendly going to their houſes, his conſtant attendance upon, free, and bountiful encou<g ref="char:EOLhyphen"/>raging of them in their labours, doth abundantly teſti<g ref="char:EOLhyphen"/>fie. And that this reſpect he ſhewed, was not ſo much to the perſons of the Miniſters of the Goſpel, but unto the faithful, and conſcientious diſcharge of their <hi>work,</hi> and <hi>office,</hi> that worthy ſpeech of his, which was oft heard uttered by him, bears witneſs; namely, <hi>That it much pleaſed him, to hear ſuch ſearching Sermons, as ript up the heart, and diſcovered ſin to the full.</hi>
+            </p>
+            <p>And as I have thus glanced at ſome commendable practices in him relating to <hi>Religion,</hi> ſo ſhould I ſpeak diſtinctly to each <hi>moral virtue</hi> that was reſplendent in him, I ſhould exceed the limits of the time which is al<g ref="char:EOLhyphen"/>lotted to this part of the Solemnity; I muſt remember, I am yet to begin my Sermon, and that after it, another, at ſome diſtance hence is to be preached: to ſum up therefore all in a very few words.</p>
+            <pb n="5" facs="tcp:34055:8"/>
+            <p>This truly Honourable perſon whom we now com<g ref="char:EOLhyphen"/>memorate, was moſt punctually and exactly righteous in all his civil tranſactions, tenderly mercifull and com<g ref="char:EOLhyphen"/>paſtionate towards decayed Debtors and Tenants; humble, affable, and curteous towards all, and grie<g ref="char:EOLhyphen"/>vous to none.</p>
+            <p>And in the laſt place, I muſt not forget his <hi>Charitie</hi> to the <hi>poor.</hi> Indeed by <hi>Will</hi> and <hi>Testament</hi> there is little done, he being ſurprized with the ſuddenneſs of his ſickneſs and death: yet whileſt he was living he did ſome things very exemplary. Beſides the conſtant relief the poor had at his Gate, and his liberal annual penſion to a poor Scholar in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> and to ſome others that had been in the relation of Servants to himſelf and <hi>Noble Father;</hi> he did ſome years before his death ſettle by <hi>Deed</hi> 12. pound <hi>per Annum</hi> for ever upon the Almeshouſes founded by <hi>Mr. Hanly.</hi>
+            </p>
+            <p>Theſe things being ſo well known, have we not great cauſe to mourn over the loſs we have ſuſteined in and by his death? The <hi>honourable Widdow</hi> hath loſt a moſt tender Husband, the <hi>Orphan'd Children</hi> a loving and indulgent Father, the Servants of the Family a mild, prudent, and moſt righteous Maſter, the Tenants a juſt, and compaſſionate Land-lord, we Miniſters a noble Friend and faithfull Patriot: <hi>We eſpecially, whom God hath called to this place,</hi> who came hither upon his, together with ſome others of the chief of the Pariſh, ſpecial invitation, ſet down here (after mutual know<g ref="char:EOLhyphen"/>lege obtained one of another) upon the publick de<g ref="char:EOLhyphen"/>claration of his, and the whole Pariſhes earneſt deſire and call of us ſo to do, and have chearfully and com<g ref="char:EOLhyphen"/>fortably, and (through grace we hope we can ſay,) in ſome meaſure profitably continued our Miniſterial im<g ref="char:EOLhyphen"/>ployment, and been ſuccesfully carryed through the many difficulties that uſually attend endeavors after Re<g ref="char:EOLhyphen"/>formation in the adminiſtration of Goſpel-Ordinances, through his (under God) ſpecial countenance, encou<g ref="char:EOLhyphen"/>ragement
+<pb n="6" facs="tcp:34055:9"/>and active concurrence with us: The ſenſe and experience of which mercy from God to us, and choice Service which this <hi>great</hi> and <hi>publick good Man</hi> did the Goſpel, hath cauſed many thankſgivings unto God, much heightned the deſerved honourable eſteem which we with the whole Church of God amongſt us had of him, made us highly to prize, and earneſtly to pray for his life; and now, we reflecting upon the greatneſs of our loſs, ſadly to bewail his death: but I muſt proceed no farther on this Text; to come to the other.</p>
+            <q>
+               <hi>Surely Every man,
+<note place="margin">Text</note> at his beſt eſtate, is altogether vanity.</hi> Selah.</q>
+            <p>WE may fitly begin our diſcourſe upon this <hi>Text,</hi> with that gracious <hi>Apophethegm</hi> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rather di<g ref="char:EOLhyphen"/>vine <hi>Oracle,</hi> wherewith <hi>Solomon</hi> that Kingly and royal <hi>Preacher</hi> begun his ſacred retractations, (ſo ſome have ſtyled his book of <hi>Eccleſiaſtes</hi>) ſaying, <hi>vanity of va<g ref="char:EOLhyphen"/>nities, vanity of vanities, all is vanity.</hi> This is an Hebrew Form or Phraſe of ſpeech, they expreſſing the Compa<g ref="char:EOLhyphen"/>rative often by a prepoſition, and the ſuperlative by doubling the ſame word, which noteth excellency and perfection: by the ingemination and redoubling of the ſame word and Phraſe, the <hi>Preacher</hi> doth at once both confirm the judgement in the certainty of the funda<g ref="char:EOLhyphen"/>mental truth he layeth down, and alſo vehemently move the aſſections: a good <hi>coppy</hi> for all <hi>Preachers</hi> to write after, namely, to ſpeak ſuch words as may be both inſtructive and affective. As to the import of this con<g ref="char:EOLhyphen"/>ciſe ſpeech of <hi>Solomons,</hi> in brief it is this; That all things here below are moſt vain, or extreme vanity, and that no true felicity can be enjoyed in the freeſt and largeſt poſſeſſion of them. In the fourteenth verſe he
+<pb n="7" facs="tcp:34055:9"/>tells us, that they are not only <hi>vanity,</hi> that is, as our <hi>Annotators</hi> gloſs, ineffectual to confer happineſs; but which is worſe, they are <hi>vexation of Spirit,</hi> apt to bring much affliction and trouble upon the heart of him who is too earneſtly converſant about them: And this he delivers as the reſult of all that his ſearch and enqui<g ref="char:EOLhyphen"/>ry which by <hi>Wiſdome,</hi> that is, by his very beſt skill, he made into the cauſes and effects of all things, that have a being and are done under the Heaven: <hi>I the Preacher was King over Iſrael in Jeruſalem, and I gave my heart to ſeek, and to ſearch out by Wiſdome, concerning all things that are done under Heaven: and I have ſeen all the workes that are done under the Sun, and behold all is vanity and vexation of Spirit.</hi> Eccleſ. 1.12, 13, 14.</p>
+            <p>Thus you have heard what <hi>Solomon</hi> ſaith; but they are not his words but <hi>Davids</hi> which we are now to in<g ref="char:EOLhyphen"/>ſiſt upon: the difference indeed that is between them is but little, what <hi>David</hi> ſaith in the <hi>Text,</hi> is included in what <hi>Solomon</hi> hath delivered, as each <hi>particular</hi> is com<g ref="char:EOLhyphen"/>prehended in the <hi>general,</hi> and each <hi>part</hi> and <hi>parcel</hi> in the <hi>whole. Solomon</hi> tels us, that <hi>all the works</hi> that are wrought under the Sun are <hi>vanity,</hi> and <hi>David</hi> ſingles out one of the works, but indeed the chiefeſt and top<g ref="char:EOLhyphen"/>moſt of all the reſt, and inſtanceth in this, when con<g ref="char:EOLhyphen"/>ſidered and beheld by us in the compleateſt outward form and natural perfection of it, and <hi>he ſaith that it is altogether vanity. Surely every man, in his beſt eſtate, is altogether vanity Selah.</hi>
+            </p>
+            <p>The <hi>Text</hi> may not be unfitly ſtiled fallen mans <hi>Por<g ref="char:EOLhyphen"/>traiture,</hi> and lively image and repreſentation; and this is ſuch a curious and exact peece of workmanſhip as cannot be paralleld; it far exceeds whatever <hi>art</hi> in the higheſt perfection, brought any of its <hi>Scholars</hi> unto; the moſt exquiſite Limners that ever we heard or read of, could never give us the draught and portraiture of the Mind and Soul of man in its inward motions and ope<g ref="char:EOLhyphen"/>rations;
+<pb n="8" facs="tcp:34055:10"/>ſome have drawn the Pictures and repreſenta<g ref="char:EOLhyphen"/>tions of mens bodies to the life, but they could never ſo draw any, as in their draught to repreſent together with the outward form and feature of their bodies, al<g ref="char:EOLhyphen"/>ſo the inward complexion frame and full endowments of their minds: But you may in our <hi>Text</hi> behold <hi>man</hi> repreſented to us perfectly, both inſide and outſide, both in his ſoul and body: <hi>Surely every man, in his beſt eſtate, is altogether vanity Selah.</hi>
+            </p>
+            <p>The words are an intire propoſition,
+<note place="margin">The parts of Text 1. The ſubject.</note> containing the <hi>Subject</hi> and <hi>Predicate.</hi>
+            </p>
+            <p>The <hi>Subject</hi> that is <hi>Man,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Adam;</hi> this though it was the proper name of the firſt man, yet it is frequent<g ref="char:EOLhyphen"/>ly uſed appellatively, In this <hi>ſubject</hi> here is firſt the note of univerſality. <hi>[Every] every man,</hi> none excep<g ref="char:EOLhyphen"/>ted; ſecondly the qualification of this <hi>Subject</hi> here ſpoken of, <hi>(viz)</hi> when he is beſt conſtituted, when in his prime, when in his greateſt beauty and bravery, <hi>Every man in his beſt Eſtate.</hi> The word tranſlated here
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>best eſtate</hi> the Septuagint renders it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>vivens,</hi> living, ſo alſo the <hi>Ethiopick,</hi> and <hi>Ara<g ref="char:EOLhyphen"/>bik</hi> verſion; and indeed natural life, is one of the choyceſt, richeſt, and moſt pretious Jewel, in all na<g ref="char:EOLhyphen"/>tures treaſury and cabinet. <hi>Skin for skin, and all that a man hath, will he give for his life,</hi> Job 2.4. and ſaith <hi>Solomon, a living dog is better than a dead Lion, Eccleſ.</hi> 9.4. We read of a woman in the Goſpel, how that ſhe ſpent all ſhe had on the Phyſicians, and what was it for? only to have her health reſtored, which is a degree be<g ref="char:EOLhyphen"/>low life; but though this tranſlation of the word, doth expreſs ſomewhat that is very choyce; yet this of <hi>Life</hi> is implyed; and all the comforts, conveniences, and ac<g ref="char:EOLhyphen"/>comodations, yea, perfections of life natural, are carried in the Hebrew word: the word properly ſignifies <hi>Stans,</hi> it commeth from the Hebrew root which ſignifieth
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Stetit;</hi> and it is rendered by ſundry <hi>conſtitutus,</hi> as <hi>Piſ<g ref="char:EOLhyphen"/>cator, Tremelius,</hi> and others: <hi>Tremelius</hi> renders the
+<pb n="9" facs="tcp:34055:10"/>words; thus, <hi>Profecto omnimodae vanitas omnis homo, quantumvis conſtitutus maxime:</hi> Surely every man is all manner of vanity, albeit he be never ſo well ſetled, and conſtituted.</p>
+            <p>The ſecond thing obſervable is the <hi>Predicate,</hi>
+               <note n="2" place="margin">The Predi<g ref="char:EOLhyphen"/>cate.</note> or that which is ſpoken, and affirmed of this <hi>Subject:</hi> and that is, that he is <hi>vanity,</hi> yea, <hi>altogether</hi> vanity, and that <hi>ſure<g ref="char:EOLhyphen"/>ly;</hi> all this belongs to the <hi>Predicate.</hi>
+            </p>
+            <p>He is <hi>vanity.</hi> The Hebrew word here uſed, was the proper name of the ſecond Son born to <hi>Adam,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> whom his Brother <hi>Kain</hi> killed: and the name, or word, pro<g ref="char:EOLhyphen"/>perly ſignifies as tranſlated here in the <hi>Text,</hi> namely <hi>vanity;</hi> w<hi rend="sup">ch</hi> 
+               <hi>Pagnin</hi> deſcribes, to be a moſt vain, or light thing, ſuch as is a bubble on the water,
+<note place="margin">
+                  <hi>Res eſt quae non eſt quidpiä, aut qua cito deſi<g ref="char:EOLhyphen"/>nit, ut flatus qui exit abore</hi> Pagnin.</note> or the breath of a mans mouth: The <hi>Syriack</hi> verſion, render the words thus; <hi>quoniam omnes homines ut vapor conſiſtunt;</hi> the conſiſtency of all men, is no better than that of a vapor: which <hi>Saint James</hi> ſaith, appeareth for a little while, and then vaniſheth away, <hi>Cap.</hi> 4.14.</p>
+            <p>He is altogether vanity, <hi>Kol Hebel Kol Adam;
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> uni<g ref="char:EOLhyphen"/>verſae vanitas omnis homo;</hi> all men are all vanity, ſo it is word for word: the <hi>Septuagint</hi> render it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quoad omnia vanitas;</hi> the verſion of the Arabick thus, <hi>quicquid pertinet ad hominem viventem eſt va<g ref="char:EOLhyphen"/>num;</hi> whatſoever belongeth unto living man, is vanity.</p>
+            <p>
+               <hi>Bithner</hi> he expounds it thus, <hi>Every man is altoge<g ref="char:EOLhyphen"/>ther vanity. Hoe eſt, omni ex parte, ita ut vanitas &amp; mi<g ref="char:EOLhyphen"/>ſeria quae per alias creaturas fruſtatim ſpargitur, in uno homine aggregata videatur: ſic<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> homo evadit compendi<g ref="char:EOLhyphen"/>um omnium vanitatum quae in creaturis extant, &amp;c.</hi>
+               <note n="*" place="margin">
+                  <hi>Cum inani<g ref="char:EOLhyphen"/>mis ſubjecit matationi, cor<g ref="char:EOLhyphen"/>ruptioni; Cum animatis, alterationi, morti; Cum ſenſibilibus, laetitiae, maerori; Cum Angelis qui reliquerunt ſuum-domicilium, inconſtantiae.</hi> Bithner <hi>in</hi> locum.</note> that is, he is the ſinck and center of all the vanities in the world; he is as it were the
+<note n="*" place="margin">
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſa vanitas.</note> 
+               <hi>univerſe</hi> of <hi>vanity.</hi>
+            </p>
+            <pb n="10" facs="tcp:34055:11"/>
+            <p>Surely every man in his beſt eſtate, is altogether va<g ref="char:EOLhyphen"/>nity; <hi>(ſurely)</hi> it is as if he had ſaid, this is moſt true, moſt certain, none need to queſtion it.</p>
+            <p>And as the word <hi>ſurely</hi> begins the <hi>Text,</hi> ſo the note <hi>(Selah)</hi> concludes it; which if in any place it be more than a bare <hi>Muſical Note,</hi> and pointeth at ſome extra<g ref="char:EOLhyphen"/>ordinary matter, calling for more than ordinary atten<g ref="char:EOLhyphen"/>tion, it may be looked upon as ſo uſed here. The mat<g ref="char:EOLhyphen"/>ter whereunto it is affixed, being of ſuch unqueſtionable certainty, of ſuch great importance, and there be ſuch a natural unaptneſs in every of us, to give Credit to, or take notice of it; ſo that we had need to be called up<g ref="char:EOLhyphen"/>on to attend heedfully to it.</p>
+            <p>Thus we have for brevity ſake, given you both the parts of the <hi>Text,</hi> and ſenſe of the terms together, you ſee that every word in the <hi>Text</hi> hath its weight; the <hi>Text</hi> may be thus <hi>paraphraſed.</hi>
+            </p>
+            <p>
+               <hi>Man,</hi>
+               <note place="margin">Paraphraſed.</note> who is the glory of the Creation, Gods maſter<g ref="char:EOLhyphen"/>piece; and not only this, or the other man, but <hi>every man;</hi> and not every man, at ſometime, in ſome con<g ref="char:EOLhyphen"/>ditions, not man, when dead, or if living, yet in an afflicted eſtate, or the like, but every man whil'ſt living, yea, when he is in the height, perfecti<g ref="char:EOLhyphen"/>on, and accompliſhment of all Creature-comforts, when ſtanding on his <hi>tiptoes,</hi>
+               <note place="margin">Mr. <hi>Gaſe</hi> in his Sermon 1 <hi>Corin.</hi> 1.29.</note> when in his beſt beauty, and bravery; what is he then? not (ſaith one) only a mixt creature, a compound of folly and wiſdom, weak<g ref="char:EOLhyphen"/>neſs and ſtrength, light and darkneſs, fleſh and ſpi<g ref="char:EOLhyphen"/>rit, beauty and deformity, ſubſtance: and vanity But he is <hi>altogether vanity,</hi> the very ſink, and center of all the vanities in the world. If man be a compound creature, it is of all the <hi>vanities</hi> under Heaven; and to this the Holy Ghoſt ſets a double Seal, one at the begin<g ref="char:EOLhyphen"/>ning of the ſentence, and another at the end.</p>
+            <p>
+               <hi>Surely</hi> lets it in, and <hi>Selah</hi> ſhuts it up. It is a truth of ſuch illimited, and immutable certainty, that it can nei<g ref="char:EOLhyphen"/>ther be met, nor overtaken with any objection. <hi>Sure<g ref="char:EOLhyphen"/>ly
+<pb n="11" facs="tcp:34055:11"/>every man, in his beſt eſtate, is altogether vanity</hi> Selah.</p>
+            <p>I proceed now to the Doctrinal concluſions, which we may gather from the words, and we might parcel out the <hi>Text</hi> into three or four concluſions; as firſt.</p>
+            <list>
+               <item>1. <hi>That man is a very vain thing, yea, vanity it ſelf.</hi>
+               </item>
+               <item>2. <hi>Not only this, or the other man is ſo, but every man.</hi>
+               </item>
+               <item>3. <hi>Every man in his beſt eſtate is altogether vanity.</hi>
+               </item>
+               <item>4. <hi>How difficultly ſo ever any are brought to believe this, yet it is a very great truth, and that which is a<g ref="char:EOLhyphen"/>bove all objection.</hi>
+               </item>
+            </list>
+            <p>But all theſe are moſt pithily, &amp; conciſely ſumm'd up by the <hi>Prophet</hi> in the words of the <hi>Text,</hi> which we ſhall not vary from: ſo that the point of <hi>Doctrine</hi> we ſhall inſiſt upon, you may take it in the very words of the <hi>Pſalmiſt.</hi>
+            </p>
+            <p>
+               <hi>Surely every man in his beſt eſtate is altogether vanity.</hi>
+               <note place="margin">Doct. Proof.</note>
+            </p>
+            <p>For the <hi>proof</hi> of this you may conſult theſe Scrip<g ref="char:EOLhyphen"/>tures, <hi>Pſalm</hi> 144.3, 4. <hi>Lord what is man, that thou ta<g ref="char:EOLhyphen"/>keſt knowledge of him, &amp;c?</hi> and why do<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>David</hi> thus reaſon? in the next words he tels us, <hi>man is like to va<g ref="char:EOLhyphen"/>nity, his dayes are as a ſhadow that paſſeth away.</hi> Man is like to vanity, in the Hebrew it is <hi>Adam</hi> is like to <hi>Abel,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> now <hi>Abel,</hi> as I told you before, ſignifies <hi>vanity,</hi> and it is ſometimes put to expreſs an <hi>Idol,</hi> as <hi>Jerem.</hi> 2.5. <hi>Thus ſaith the Lord, What iniquity have your Fathers found in me, that they are gone far from me, and have walked after an
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> * 1 Corin. 8.4.</note> Idol?</hi> Now the <hi>Apoſtle</hi> tells us, that <hi>an Idol is no<g ref="char:EOLhyphen"/>thing in the world;</hi> It is the vaineſt thing in the world, or the greateſt vanity: man is become even as one of theſe; he in his beſt eſtate is but a repreſentation of a thing which is not ſo that upon the point, it is as much as if <hi>David</hi> had ſaid, <hi>Man is nothing.</hi>
+            </p>
+            <p>Another Scripture we have in <hi>Pſalm</hi> 62.9. <hi>Surely men of low degree are vanity; and men of high degree are a lye, to be laid in the ballance they are altogether lighter than vanity;</hi> here we read, that what ever degree men
+<pb n="12" facs="tcp:34055:12"/>are of, they are no better than vanity; nay, thoſe that are of the highſt degree, that is, are higheſt in riches, honour, parts, or the like, theſe will the leaſt anſwer our expectations, and fulfill our hopes; nay, they will prove a lye to us, they will deceive us. Hence <hi>David</hi> thus exhorteth: <hi>Put not your truſt in Princes, nor in the Son of Man, in whom there is no help, his breath goeth forth, he returneth to his earth, in that very day his thoughts periſh,</hi>
+               <note place="margin">Prov. 19.6.29.26.</note> Pſalm 146.3, 4. There are many as <hi>So<g ref="char:EOLhyphen"/>lomon</hi> ſaith, who ſeek the Princes favour, and oh if they can but obtain it, they think they are <hi>made perſons:</hi> but what are Princes? are they any other than <hi>Sons</hi> of <hi>men?</hi> and being Sons of men, what help is there in them? be<g ref="char:EOLhyphen"/>cauſe their breath goeth forth, and they turn again to their earth, and then their thoughts periſh, their thoughts, <hi>ad alios benefaciendos,</hi> as <hi>Abon-Ezra</hi> expoun<g ref="char:EOLhyphen"/>deth it, of doing thee and others good, theſe fall to the ground. To what hath been ſaid, we may add, that God in Scripture, doth not only ſpeak of ſingle <hi>perſons,</hi> that they are <hi>vanity,</hi> but alſo of <hi>Nations;</hi> and not only of this, or the other Nation, but of <hi>all</hi> Nati<g ref="char:EOLhyphen"/>ons: take all mankind in a cluſter, or as bundled up to<g ref="char:EOLhyphen"/>gether; and not only is this, or that man, this, or that Nation, but all men, and <hi>all Nations, before him, are as nothing, and are counted to him leſſe than nothing and va<g ref="char:EOLhyphen"/>nity,</hi> ſaith the Prophet <hi>Iſaiah,</hi> Cap. 40.17.</p>
+            <p>Having thus given you the <hi>Proof</hi> of the <hi>Doctrine,</hi> I ſhall briefly diſpatch theſe few particulars, namely, ſhew you firſt, when it is that man may be ſaid to be in his beſt eſtate; or what this beſt eſtate of man is: Secondly, that in this eſtate he is vanity, how, or in what regards he is ſo: Thirdly, why, or whence he is ſo; and ſo make ap<g ref="char:EOLhyphen"/>plication.</p>
+            <p>To the firſt,
+<note place="margin">Explication.</note> namely, what is meant here by mans beſt eſtate: you may take the anſwer to this firſt Negatively, then Affirmatively.</p>
+            <p>Negatively,
+<note n="1" place="margin">Negatively.</note> by <hi>Mans beſt Eſtate,</hi> as it is here ſpoken
+<pb n="13" facs="tcp:34055:12"/>of, is not meant that eſtate of <hi>Innocency,</hi> integrity, and perfection, wherein God at the firſt Created man; that indeed was a right-good, and excellent eſtate: Firſt,
+<note n="1" place="margin">By mans beſt eſtate here in not meant mans eſtate in innocency.</note> it was an eſtate of perfect holineſs, he being made in Gods Image, and after Gods likeneſs, <hi>Gen.</hi> 5.27. Secondly, it was an eſtate of perfect wiſdom, and underſtanding, of which <hi>Adam</hi> gave Proof, by giving names to all Cattel, to Fowls of the Air, and to the Beaſts of the Field, ſuitable, and appoſite to their nature, <hi>Gen.</hi> 2.20. Thirdly, it was an eſtate of great honour, and dignity: <hi>David</hi> brings him in with a Crown upon his head, and that Crown is a Crown of glory, and honour; <hi>thou haſt Crowned him with glory, and honour, Pſalm.</hi> 8.5. His place was little lower than the Angels, but far above all other Creatures.</p>
+            <p>Fourthly, it was an eſtate of great dominion and au<g ref="char:EOLhyphen"/>thority, man being made the Soveraign Lord of the whole Creation, <hi>Gen.</hi> 1.26. <hi>Pſal.</hi> 8.6, 7, 8.</p>
+            <p>I might inſtance in ſundry other particulars, as</p>
+            <p n="1">1. The exquiſite beauty,
+<note place="margin">Dr. <hi>Harris</hi> his Sermon on Eccleſ. 7.29.</note> and perfection of his out<g ref="char:EOLhyphen"/>ward man, it had nothing (as one obſerves) of blemiſh, or bluſhing, but was cloathed with all requiſite beauties, and abilities, that might render him lovely, and com<g ref="char:EOLhyphen"/>mend him to every eye.</p>
+            <p n="2">2. The greatneſs and vaſtneſs of his poſſeſſions; we need not, ſaith the ſame Authour, ſtand to enlarge up<g ref="char:EOLhyphen"/>on one parcel of his <hi>diſmeans,</hi> namely, that which they call <hi>Paradice,</hi> ſith the whole both of Sea and Land, and all the Creatures in both were his poſſeſſion, his Pa<g ref="char:EOLhyphen"/>radice.</p>
+            <p>In brief, mans firſt eſtate, was a ſtate of perfect, and compleat happineſs, there being nothing within him, but what was deſirable, nothing without him, but what was amiable, and nothing about him, but what was ſer<g ref="char:EOLhyphen"/>viceable, and comfortable; When therefore it is ſaid, that <hi>Surely every man in his beſt eſtate is altogether va<g ref="char:EOLhyphen"/>nity,</hi> by <hi>beſt eſtate</hi> in the <hi>Text,</hi> is not meant mans eſtate
+<pb n="14" facs="tcp:34055:13"/>of <hi>Innocency;</hi> had man perſiſted in that, he ſhould not have known what vanity meant; <hi>Adam</hi> in that eſtate, had in himſelf a power of perpetuating his eſtate in <hi>Fee-ſimple,</hi> upon himſelf and his for ever.</p>
+            <p>Secondly,
+<note n="2" place="margin">Not his eſtate of Regeneracy</note> by mans <hi>beſt eſtate,</hi> is not meant his eſtate of <hi>Regeneracy:</hi> this is a moſt excellent eſtate, and far better than that which is intended in the <hi>Text.</hi> This e<g ref="char:EOLhyphen"/>ſtate of regenerary, is a ſpiritual eſtate, conſiſting in ſpiritual graces, and privileges. It is a free eſtate, freed from all forfeitures, and endowed with choyce immuni<g ref="char:EOLhyphen"/>ties.
+<note place="margin">Coloſ. 2.10.</note> It is a full eſtate, <hi>we are compleat in Chriſt.</hi> It is a firm eſtate, all is everlaſting, unmoveable, unfading, we are all Heirs,
+<note place="margin">Rom. 8.17.</note> and joynt Heirs with Chriſt, if the eſtate ſtand good to him, it will to us.</p>
+            <p>Man in this eſtate, is not <hi>altogether vanity.</hi> Indeed this eſtate doth not exempt and privilege from mani<g ref="char:EOLhyphen"/>fold miſeries, and afflictions, that abide us in this life, nor doth it exempt from death;
+<note place="margin">Heb 9.27.</note> for it is appointed unto all men once to dye; the good as well the bad, the rege<g ref="char:EOLhyphen"/>nerate, as well as the unregenerate: notwithſtanding man in this eſtate, is not <hi>altogether vanity.</hi> Indeed the regenerate mans outward comforts, ſuch as are his friends, eſtate, honour, yea, his perſon, as it is ſubject to death, may be ſaid to be <hi>vanity:</hi> but his ſpiritual eſtate, this you have heard, is firm, everlaſting, and that fadeth not away; whereas one that is no more but a man, but a <hi>meer</hi> child of the firſt <hi>Adam,</hi> both he and his <hi>beſt eſtate</hi> be it whatſoever it may be, is <hi>altogether vanity.</hi>
+            </p>
+            <p>Thirdly,
+<note n="3" place="margin">Not his eſtate of Glory.</note> by mans beſt eſtate, as is not meant his eſtate of <hi>Innocency,</hi> nor his eſtate of <hi>Regeneracy:</hi> ſo much leſs his eſtate of <hi>Glory;</hi> this is the <hi>beſt eſtate</hi> of <hi>all.</hi> This is better than the eſtate of <hi>Regenerary;</hi> becauſe though in that be the <hi>truth</hi> of grace, yet there is not in it the <hi>perfection</hi> of grace: yea better than <hi>Adams</hi> eſtate of <hi>In<g ref="char:EOLhyphen"/>nocency;</hi> becauſe though in that he had perfection of holineſs, yet it was loſeable, he being (as you know) endowed with freedom of will, either to ſtand, or to fall;
+<pb n="15" facs="tcp:34055:13"/>and we too too well know, that he did fall; but as to this eſtate of <hi>Glory,</hi> the holineſs, and happineſs of it, is both perfect and perpetual, it is ſure and cannot fail, hence it is called <hi>an inheritance incorruptible,
+<note place="margin">1 Pet. 1.4.</note> and unde<g ref="char:EOLhyphen"/>filed, and that fadeth not away.</hi> Man when exalted to this eſtate, ſhall be fully freed from all manner of <hi>vanity;</hi> and we may alter the words and ſay. <hi>Surely every man in this his beſt eſtate, is altogether felicity, or altogether Glory.</hi>
+            </p>
+            <p>Thus we have heard,
+<note n="2" place="margin">Affirmatively.</note> what is not meant by mans <hi>beſt eſtate,</hi> as ſpecified in the <hi>Text;</hi> Now for the <hi>Affirma<g ref="char:EOLhyphen"/>tive.</hi>
+            </p>
+            <p>By mans <hi>beſt eſtate,</hi> is chiefly,
+<note place="margin">Mans beſt eſtate three<g ref="char:EOLhyphen"/>fold.</note> and principally under<g ref="char:EOLhyphen"/>ſtood his moſt flouriſhing, and proſperous eſtate, as to this world: Now this is threefold. Firſt, there is mans <hi>natural</hi> eſtate. Secondly, his <hi>moral</hi> eſtate. Thirdly, his <hi>civil</hi> eſtate.</p>
+            <p>Firſt then <hi>every man in his beſt eſtate is altogether va<g ref="char:EOLhyphen"/>uity,</hi> that is, in his beſt <hi>natural</hi> eſtate: by this,
+<note n="1" place="margin">Mans beſt na<g ref="char:EOLhyphen"/>tural eſtate is vanity.</note> I do not underſtand that eſtate of ſin, wherein every man is born, thus indeed divines frequently, and not improperly, uſe this phraſe of mans <hi>natural eſtate:</hi> but underſtand man ſimply conſidered, as he is <hi>natures</hi> work-man-ſhip, as <hi>nature</hi> hath endowed, and inriched him with her gifts, and that either in reference to body or mind: theſe gifts and endowments of <hi>nature</hi> in reference to body, are health, ſtrength, beauty, and the like: the gifts and en<g ref="char:EOLhyphen"/>dowments of the mind, are ſtrength of memory, quick<g ref="char:EOLhyphen"/>neſs of apprehenſion, good utterance, and all of the like nature, which go under the Notion of a mans natu<g ref="char:EOLhyphen"/>ral parts. Now man, yea, <hi>every man in his beſt natural eſtate is altogether vanity:</hi> that is, man, even then when he is moſt ſtrong, moſt healthful, moſt beautiful, which is uſually in youth, or compleat manhood, then is a per<g ref="char:EOLhyphen"/>ſon in the flowr, and Prime of his life and dayes; even now is he not altogether vanity? <hi>Solomon</hi> tells us,
+<note place="margin">Eccleſ. 11.10.</note> 
+               <hi>that Child-hood, and youth, are vanity;</hi> there is a double va<g ref="char:EOLhyphen"/>nity
+<pb n="16" facs="tcp:34055:14"/>in theſe, both the vanity of ſin, and alſo the vani<g ref="char:EOLhyphen"/>ty of nature.
+<note place="margin">Job. 21.23, 29.</note> But more expreſly to this, is that of <hi>Job; one dieth in his full ſtrength, being wholly at eaſe and quiet, his Breaſts are full of Milk, and his Bones are moiſtened with marrow. One dieth in his full ſtrength,</hi> he dieth not only ſtrong, but <hi>in robore perfectionis moritur robuſtus;</hi> So the <hi>vulgar tranſlation</hi> rendereth it; the ſtrong man, dyeth in the ſtrength of his perfection: <hi>when his Breaſts are full of Milk, and his bones moistened with marrow: Job</hi> here deſcribeth the exacteſt ſtate of <hi>nature,</hi> yet <hi>now</hi> man dieth, <hi>death</hi> eaſily knocks down this ſtrong man: death as M. <hi>Caryll</hi> well gloſſeth upon the place, doth not ſtay to take men at an advantage, when they are wea<g ref="char:EOLhyphen"/>kened with age and ſickneſs,
+<note place="margin">Gen. 34.25.</note> as <hi>Simeon</hi> and <hi>Levi</hi> did the <hi>Shechemites,</hi> come upon them, when they were fore, <hi>Death</hi> can do its work eaſily, and as ſpeedily in health, as it can in ſickneſs, in ſtrength, as well as in weakneſs; when we handle the ſword, as well as when we lean up<g ref="char:EOLhyphen"/>on a ſtaff; in the Spring and Summer, as well as in the Fall and Winter of our lives.</p>
+            <p>Secondly,
+<note n="2" place="margin">Mans beſt mo<g ref="char:EOLhyphen"/>ral eſtate is vanity.</note> as man is <hi>vanity</hi> in his beſt <hi>natural eſtate,</hi> ſo alſo in his beſt <hi>moral eſtate:</hi> that is, take him when his natural parts are brought to the greateſt height that Art and diligence can bring them unto: when he is wiſeſt, learnedeſt, when his heart hath had the <hi>great<g ref="char:EOLhyphen"/>teſt experience of Wiſdome and Knowledege</hi> as <hi>Solomon</hi> Phraſeth it. <hi>Is he not then even altogether vanity?</hi> Is he not equally obnoxious to the ſtroak of <hi>Death? how dyeth the Wiſe man as the Fool?</hi> Eccleſ. 2.16. As the ſtron<g ref="char:EOLhyphen"/>geſt man cannot reſiſt <hi>Death,</hi> ſo the wiſeſt man cannot evade <hi>Death:</hi> D<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with one black <hi>Theta,</hi> ſoon re<g ref="char:EOLhyphen"/>futeth all our Wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ome, and putteth at once a period to our reading, and to our-natural being. How good therefore is that counſel which the <hi>Prophet Jeremiah</hi> giveth.
+<note place="margin">Jer. 9.23.</note> 
+               <hi>Let not the wiſe man glory in his wiſdome, nei<g ref="char:EOLhyphen"/>ther let the mighty man glory in his might; Let not the rich man glory in his riches: but let him that glorieth
+<pb n="17" facs="tcp:34055:14"/>glory in this, that he underſtandeth and knoweth the Lord.</hi>
+            </p>
+            <p>Thirdly, man,
+<note n="3" place="margin">Mans beſt civil Eſtate is vani<g ref="char:EOLhyphen"/>ty. 1 The richeſt man is vanity</note> yea <hi>every man is vanitie</hi> in his beſt <hi>Civil Eſtate.</hi> By this I underſtand man when he hath attained to great riches, to great honour, to great pow<g ref="char:EOLhyphen"/>er and authority in the world: Firſt the <hi>rich,</hi> yea the <hi>richeſt</hi> man is <hi>altogether vanity.</hi> How vain are riches themſelves, and all which they, when enjoyed in the greateſt plenty and abundance imaginable, do furniſh and accommodate us with? you may read what Judge<g ref="char:EOLhyphen"/>ment <hi>Solomon</hi> after his large experience paſſeth here<g ref="char:EOLhyphen"/>upon. <hi>I got me Servants and Maidens,
+<note place="margin">Eccleſ. 2.7.8.9, &amp;c.</note> and had Servants born in my houſe; alſo I had great poſſeſſions of great and ſmall Cattel, above all that were in Jeruſalem before me: I gathered me alſo ſilver and gold, and the Peculiar treaſure of Kings and of the Pro<g ref="char:EOLhyphen"/>vinces: I gate me men-Singers and women-Singers, &amp;c. then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do, and behold all was vanity,</hi> &amp;c.</p>
+            <p>And as riches themſelves are vain, for <hi>Solomon</hi> elſe<g ref="char:EOLhyphen"/>where ſaith <hi>they have wings and ſly away:</hi> So are the poſſeſſors of them:
+<note place="margin">Prov. 23.5.</note> As the rich man cannot by the multitude of his riches by any means redeem the life of his friend and brother from <hi>death,</hi> ſo as that he ſhould ſtill live for ever, and not ſee corruption, as the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> ſpeaketh, <hi>Pſal.</hi> 49.6, 7, 9. So cannot he keep off <hi>Death</hi> from knocking at his own Door, yea from ma<g ref="char:EOLhyphen"/>king a forcible entry upon him, as you may read <hi>Luke</hi> 12.20.</p>
+            <p>Secondly as the <hi>richeſt</hi> man,
+<note n="2" place="margin">The Ho<g ref="char:EOLhyphen"/>nourable per<g ref="char:EOLhyphen"/>ſon is vanity.</note> ſo the <hi>Honourableſt</hi> perſon is alſo <hi>altogether vanity:</hi> yea indeed the higher any perſon is in honour, he is but vanity in a greater degree. <hi>Men of low degree are vanity, and men of high degree are a lie, to be laid in the ballance, they are altoge<g ref="char:EOLhyphen"/>ther lighter than vanity, Pſal.</hi> 62.9. and in <hi>Pſal.</hi> 49.12.
+<pb n="18" facs="tcp:34055:15"/>
+               <hi>man being in honour abideth not, he is like the beaſt that periſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th.</hi>
+            </p>
+            <p>Thirdly man when arrived at, and inveſted with, the greateſt power and authority,
+<note n="3" place="margin">Man when advanced to the higheſt power and authority is vanity. Mr. <hi>Trap.</hi>
+               </note> even in this his eſtate hers altogether vanity: If a <hi>Prince,</hi> his breath is but in his noſtrils, and he is equally if not more ſubject to <hi>Death</hi> than the meaneſt <hi>Pea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant. The mortal Sythe</hi> (ſaith one) <hi>is Maſter of the roy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Septer, and it moweth down the Lillies of the Crown, as well as the graſs of the Field.</hi> At one end of the <hi>Liberary</hi> at <hi>Dublin</hi> was a <hi>Globe,</hi> at the other a <hi>Sk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leton:</hi> to ſhew (ſaith my Author) that if a man were the <hi>Lord</hi> of the whole world, yet he muſt dy, his honour and greatneſs muſt be laid in the duſt.</p>
+            <p>Thus we have ſhewed you what that beſt eſtate of man is here ſpoken of in the <hi>Text.</hi> It is not underſtood of mans eſtate in <hi>Innocency;</hi> not of his eſtate in <hi>Re<g ref="char:EOLhyphen"/>generacy;</hi> much leſs of his eſtate in <hi>Glory:</hi> But of mans moſt <hi>flouriſhing</hi> and <hi>proſperous</hi> eſtate in the World, namely of his beſt <hi>natural, moral,</hi> and <hi>civil</hi> eſtate. Thus ſaith the Prophet <hi>Iſaiah Cap.</hi> 40.6. <hi>All fleſh is graſs, and all the goodlineſs thereof as the flower in the field. Hebrew Chasdo,</hi> the Piety, Excellency, and Emi<g ref="char:EOLhyphen"/>ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cy of it, that is, all humane and created Excellency in its beſt beauty and bravery is vaniſhing.</p>
+            <p>Theſe are <hi>altogether vanity:</hi>
+               <note place="margin">How man in his beſt eſtate is altogether vanity. 1 Compara<g ref="char:EOLhyphen"/>tively. 2. In regard of inconſtancy and inſtab li<g ref="char:EOLhyphen"/>ty.</note> firſt <hi>comparatively,</hi> namely, when put into the Ballance with God. <hi>Behold the Nations are a drop of the Bucket, and are counted as the ſmall duſt of the Ballance: all Nations before him are as nothing, they are counted to him leſs than nothing and vanity.</hi> Iſa. 40.15, 17.</p>
+            <p>Secondly <hi>man in his beſt eſtate is altogether vanity,</hi> in that he hath no <hi>permanency</hi> or <hi>ſtabilitie,</hi> but is continu<g ref="char:EOLhyphen"/>ally ſubject to change and alteration. That which ſets the <hi>glory</hi> of God higheſt in oppoſition to the <hi>vanity</hi> of the creature is, <hi>that with him there is no variableneſs,
+<pb n="19" facs="tcp:34055:15"/>nor ſhadow of turning,</hi> James 1.17. now in oppoſition to this point of higheſt perfection in God, lieth the loweſt point of the creatures <hi>vanity,</hi> namely, that in them is nothing but <hi>turning.
+<note place="margin">1 Cor. 7.31.</note> The faſhion of this World paſſeth away</hi> ſaith <hi>Paul,</hi> it is ever paſſing, never ſtandeth at a ſtay; thus is man even when in his <hi>beſt eſtate: man that is born of a woman is of few dayes and full of trouble, he cometh forth as a flower and is outdown,
+<note place="margin">Job 14.1, 2.</note> he fleeth alſo as a ſhadow, and continneth not:</hi> I might multiply many other particulars, but I tak it, that theſe two are here principally meant and intended by <hi>vanitie,</hi> of theſe the <hi>Prophet</hi> had been immediately before ſpeaking, in the fourth and former part of the fifth verſe of the <hi>Pſalm.</hi>
+            </p>
+            <p>The laſt thing we have to do ere we come of the Ap<g ref="char:EOLhyphen"/>plication,
+<note place="margin">Whence it is that man is ſuch a vain creature.</note> is to ſhew you whence it is that man is ſuch a vain creature, and this I ſhall diſpatch in a word. The <hi>A<g ref="char:EOLhyphen"/>poſtle</hi> tells us that it is ſin that hath ſubjected the crea<g ref="char:EOLhyphen"/>ture to vanity, <hi>Rom.</hi> 8.20. and ſaith the <hi>Preacher, Lo this have I found, that God created man upright, but they have ſought many inventions,</hi> Eccleſ. 7.29. The na<g ref="char:EOLhyphen"/>ture of man at the firſt creation, before the lump was ſowred with the leaven of ſin, was full of glory and grace: But alas <hi>man now,</hi> yea <hi>every man</hi> being become <hi>altogether ſinfull,</hi> he thereby is made to be <hi>altogether vanity.</hi> We ſhall cloſe with this, Man when he was in the glory of his <hi>Innocency</hi> ſubjected himſelf to <hi>ſin</hi> and <hi>iniquitie,</hi> and therefore God hath now moſt righ<g ref="char:EOLhyphen"/>teouſly ſubjected all his glory to vanity.
+<note place="margin">Application.</note>
+            </p>
+            <p>The brief <hi>uſe</hi> we ſhall make of the <hi>Text</hi> and <hi>Doctrine</hi> follows.</p>
+            <p>Is man,
+<note n="1" place="margin">Inſtructi<g ref="char:EOLhyphen"/>on.</note> yea every man in his beſt eſtate altogether vanity? Then in the firſt place let us learn hence not to put our truſt or place our conſidence in man, no not in any of the children of men, be their outward eſtate never ſo flouriſhing and proſperous in the world, for
+<pb n="20" facs="tcp:34055:16"/>
+               <hi>ſurely every man in his beſt eſtate is altogether vanitie.</hi> What great means do divers in the world make to wind and inſinuate themſelves into the ſavour of ſuch whom we call <hi>great ones?</hi> namely, ſuch who are great in riches, high in honour, and eminent in power and authority? and when they have obtained this, they think they have enough, and to compaſs this, how will they fawn and flatter, complye with and conform themſelves unto the ſinfull waies and extravagancies of great men? But conſider ſeriouſly with your ſelves what <hi>David</hi> ſaith here in the <hi>Text,</hi> and then tell me, whether the favour of any man, be he never ſo great in the world, be <hi>tanti,</hi> of ſo great worth, as that either to get or keep it, thou ſhouldſt by any wilful ſin, incur Gods diſpleaſure? Is it any better than himſelf, and is not he even <hi>altogether vanity?</hi> yea, are not men of high degree a <hi>Lie? Ceaſe therefore from man, whoſe breath is in his Noſtrils, for wherein is he to be accounted of? Iſa.</hi> 2.22. moſt appo<g ref="char:EOLhyphen"/>ſite to this, is that of the <hi>Pſalmiſt,</hi> which we have cited once already, <hi>Put not your truſt in Princes, nor in the Son of man,
+<note place="margin">Iſal. 146.34.</note> in whom is no help, his breath goeth forth, he re<g ref="char:EOLhyphen"/>turneth to his earth, in that very day his thoughts pe<g ref="char:EOLhyphen"/>riſh.</hi>
+            </p>
+            <p>Secondly.
+<note n="2" place="margin">Reproof.</note> Let this ſerve to give a check to all cove<g ref="char:EOLhyphen"/>tous, or ambitious deſires, whereunto <hi>Satan</hi> may either tempt us, or our own evill hearts incline us. Me-thinks this may be a notable Argument to take our hearts off from the world: ask thy ſelf, what is it O my ſoul, that thou art ſo eager in purſute after? Is it riches, or ho<g ref="char:EOLhyphen"/>nours in the World? admit thou gaineſt them, what will thy eſtate be bettered? thou art now but a vain man, and would'ſt thou be vainer yet? The man of low de<g ref="char:EOLhyphen"/>gree is vanity, but he that is of high degree is a <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e; this the Scripture ſpeaks expreſſely, notwithſtanding all that is ſpoken of the vanity of all creature-enjoyments, and of mans eſtate, when poſſeſſed with them, yet there
+<pb n="21" facs="tcp:34055:16"/>is ſo much <hi>Sophiſtry,</hi> and deceivableneſs in the creature, that men are apt to think, that there is no greater feli<g ref="char:EOLhyphen"/>city, than to be rich, great, &amp; honourable in the world: hence they indulge covetous, and ambitious deſires in their hearts, but to theſe, let me ſpeak in the words of <hi>David, Pſal.</hi> 4.2. <hi>O ye Sons of men, how long will ye love vanity, and ſeek after</hi> leaſing? and in the words of <hi>Solomon,</hi> Prov. 23.5. <hi>wilt thou ſet thine eyes,</hi> or as it is in the <hi>Hebrew,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> wilt thou cauſe thine eyes to fly upon that which is not?</hi> an <hi>Eagle</hi> will not catch flies, much leſs will ſhe make a flight at nothing, when no game is ſprung, and wilt thou make a flight with thy heart, (for the eye which <hi>Solomon</hi> chiefly intends, 'tis the eye of the ſoul) when nothing ſprings before thee, but that which is not?</p>
+            <p>Thirdly, let this <hi>Text</hi> and Doctrine be improved,
+<note n="3" place="margin">Counſel and Exhortation.</note> as an <hi>Antidote</hi> againſt ſecurity: Let none put far from us the <hi>evill day.</hi> Firſt, let me ſpeak to you that are young men, who are in your <hi>best natural eſtate;</hi> in the flowre of your age, and full of your ſtrength, in the prime, and pride of nature, your breaſts are full of Milk, and your bones moyſtened with marrow, Oh yet know, that even <hi>man,</hi> yea, <hi>every man in his beſt natural eſtate, is al<g ref="char:EOLhyphen"/>together vanity;</hi> you have heard what <hi>Job</hi> ſaith, <hi>that one dieth in his full ſtrength, being wholly at eaſe and quiet.</hi> Conſider alſo, and improve your daily experience: ma<g ref="char:EOLhyphen"/>ny as likely to live as thou, are gone down into the <hi>grave;
+<note place="margin">Caryllon Job.</note> Death</hi> (as is well obſerved by one) doth not ob<g ref="char:EOLhyphen"/>ſerve the <hi>Laws</hi> of <hi>nature,</hi> but the <hi>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pointment</hi> of <hi>God.</hi> The <hi>Law</hi> of <hi>nature</hi> doth indeed ſet death at the grea<g ref="char:EOLhyphen"/>teſt diſtance, from thoſe that are young, ſtrong, and healthful, and faith to <hi>death,</hi> go to the wrinkled face, dry bones, dry breaſts, medle not with this <hi>young man,</hi> touch not this <hi>fair,</hi> and <hi>beautiful woman,</hi> he or ſhe, is now in the prime of their time and dayes; go to yonder old man, go to that whithered woman, let theſe alone:
+<pb n="22" facs="tcp:34055:17"/>Oh but <hi>death</hi> will not receive theſe commands, <hi>death</hi> will not obſerve the <hi>Laws</hi> of <hi>nature,</hi> but the <hi>appoint<g ref="char:EOLhyphen"/>ment</hi> of him, who is the <hi>Lord</hi> of <hi>nature:</hi> It is appoin<g ref="char:EOLhyphen"/>ted for all men once to dye: and as God hath appoin<g ref="char:EOLhyphen"/>ted all to dye, ſo he appoints the <hi>ſeaſons</hi> of <hi>death;</hi> and the <hi>ſeaſons</hi> he appoints are as various as the kinds, oc<g ref="char:EOLhyphen"/>caſions, and wayes of <hi>death</hi> are, and therefore <hi>death</hi> knocks as often at the young mans door, as at the door of the old man.</p>
+            <p>Learn therefore to prepare for <hi>death,</hi> though you have no appearance of <hi>death</hi> upon you; in ſome we may ſee many Images, and repreſentations of <hi>death,</hi> dim eyes, palſie hands, trembling knees, ſtooping backs, in others we can ſee no ſign of <hi>death,</hi> nothing that looks like death, but their countenances are freſh, their ſtrength clear, their conſtitutions healthful, and the like, yet let ſuch remember the words of our <hi>Text,</hi> that <hi>Surely every man in his best eſtate is altogether vanity.</hi>
+            </p>
+            <p>Secondly, let me ſpeak to you, who are rich, honou<g ref="char:EOLhyphen"/>rable, and great men in the world, do you alſo frequent<g ref="char:EOLhyphen"/>ly meditate upon this portion of Scripture, namely, that <hi>man, yea, every man in his beſt eſtate, is altogether vanity.</hi> It is requiſite thus to exhort you, becauſe in this point, the world is full of ſuch <hi>fools</hi> as we read of in the <hi>Goſpel</hi> of <hi>Luke,</hi> Cap. 12.19. who from the great<g ref="char:EOLhyphen"/>neſs of his wealth, concluded the length of his life, ſay<g ref="char:EOLhyphen"/>ing, <hi>Thou haſt goods laid up for many years, take thine eaſe, eat, drink, and be merry,</hi> and ſaith the <hi>Pſalmiſt,</hi> ſpeak<g ref="char:EOLhyphen"/>ing of rich men, <hi>Their inward thought is that their houſes ſhall endure for ever, and their dwelling places to all generations; nevertheleſs man being in honour abideth not, he is like the beaſt that periſheth, this their way is their folly,</hi> Pſal. 49.11, 12, 13. <hi>David</hi> himſelf was o<g ref="char:EOLhyphen"/>vertaken with this folly, when being in proſperity, he ſaid <hi>I ſhall never be moved,</hi> Pſal. 30.6. Alas God can as ea<g ref="char:EOLhyphen"/>ſily levell your <hi>Mountains,</hi> as the poor mans <hi>Mole-hill.</hi>
+               <pb n="23" facs="tcp:34055:17"/>How knoweſt thou but that God may ſay to thee as to that rich man in the Goſpel,
+<note place="margin">Luke 12.20.</note> Thou fool this night thy Soul ſhall be required of thee Albeit you are rich, great, and honorable, yet you are but men, and know it that man, yea <hi>every man in his best estate is altogether vanity;</hi>
+               <note place="margin">Dr. <hi>Reynolds.</hi>
+               </note> yet (as a learned divine of our Nation hath well obſer<g ref="char:EOLhyphen"/>ved) there is ſo much ſeed of pride in the heart of man, and ſo much heat (as we may ſo ſpeak) and vigour in the creature to quicken it, as that men are apt to <hi>Deiſie</hi> the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſelves, in the reflexion of their own greatneſs. I might give you ſundry inſtances of this, both out of ſacred and profane Hiſtory. As that of the <hi>Babyloniſh Monarchs</hi> recorded <hi>Iſai.</hi> 14.14. and 47.7, 8. and of the <hi>Prince</hi> of <hi>Tyrus</hi> recorded <hi>Ezek.</hi> 28.2. And I have read of <hi>Alexander</hi> the great, that he perſwaded himſelf, that he was the Son of <hi>Jupiter Hammon;</hi> And <hi>Sapores,
+<note place="margin">Rex Regum frater ſolis &amp; Lunae, particeps ſyderum, nec Deus eſt nec homo.</note> King</hi> of <hi>Perſia</hi> wrote himſelf <hi>King of Kings, Brother to the Sun and Moon, and Partner to the Starrs:</hi> with ſundry others of this nature.</p>
+            <p>But however you may fancy your ſelves, know it that were you <hi>Princes,</hi> yet you are but Sons of men, and ye ſhall dye like men. Let me cloſe this with that excel<g ref="char:EOLhyphen"/>lent admonition of <hi>Scaliger</hi> to <hi>Cardan;</hi>
+               <note place="margin">
+                  <hi>Exerc.</hi> 148.</note> his words are theſe; I would ever have thee remember, that thou, and I, and others are but men, and if thou knoweſt what man is, thou wilt eaſily underſtand thy ſelf to be no<g ref="char:EOLhyphen"/>thing: for my own part, I am wont to ſay, we are not ſo much as men, but
+<note n="*" place="margin">Partes homi<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</note> pieces of men; of all which put together ſomething may be made, not great, but of each of them ſundred,
+<note n="*" place="margin">Paene <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inus quam nihil.</note> almoſt leſs than nothing.</p>
+            <p>Laſtly, to cloſe all, is <hi>every man in his beſt eſtate alto<g ref="char:EOLhyphen"/>gether vanity?</hi> then look out after a <hi>better eſtate</hi> than this which <hi>David</hi> calls <hi>mans beſt estate.</hi> This is but a <hi>natural estate:</hi> look thou after a <hi>ſpiritual estate:</hi> this but a <hi>worldly eſtate,</hi> look thou after an <hi>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>venly estate:</hi> this but that which recommends you
+<pb n="24" facs="tcp:34055:18"/>to men, but look thou after that which may recom<g ref="char:EOLhyphen"/>mend you to God: look out after an eſtate of favour with God through Faith in <hi>Chriſt Jeſus:</hi> this (my be<g ref="char:EOLhyphen"/>loved) is not <hi>vanity,</hi> but <hi>ſolid ſubſtance:</hi> by thus doing, you ſhall have riches, and honour, yea, durable riches, and righteouſneſs:
+<note place="margin">Prov. 8.18, 19, 20, 21.</note> My fruit ſaith wiſdom, is better than Gold, yea, than fine Gold; and my revenue than choyce Silver: I lead in the way of righteouſneſs, in the midſt of the paths of Judgement, that I may cauſe thoſe that love me to inherit ſubſtance, and I will fill their trea<g ref="char:EOLhyphen"/>ſures.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34055:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
